@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kings\\documents\\github\\gamedesigngame\\gamedesigngame\\source\\gamedesigngame\\gamedesigngame.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kings\\documents\\github\\gamedesigngame\\gamedesigngame\\intermediate\\build\\win64\\x64\\gamedesigngameeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\kings\\documents\\github\\gamedesigngame\\gamedesigngame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gamedesigngame\\definitions.gamedesigngame.h",
+            "c:\\users\\kings\\documents\\github\\gamedesigngame\\gamedesigngame\\source\\gamedesigngame\\gamedesigngame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
