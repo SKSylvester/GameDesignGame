@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+qMU/MMXGh723h0ywthxHr0qRvmhQqMb4+JxtmKsup8Gr9Cjp0lhMO2c8N8cU/P213LHPgaASAqGe8qiPdzMzA==",
+  "dgSpecHash": "S+j6NHWU42Fb2I3LvjA1qTY8M7OHpRR4sTZ8jMsq3ZavgvuaW7PQAuoKnNqunak81V5y+hyO2p14BnZ8aKm45Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\KingS\\Documents\\Github\\GameDesignGame\\GameDesignGame\\Intermediate\\Build\\BuildRulesProjects\\GameDesignGameModuleRules\\GameDesignGameModuleRules.csproj",
+  "projectFilePath": "C:\\Users\\KingS\\Documents\\GitHub\\GameDesignGame\\GameDesignGame\\Intermediate\\Build\\BuildRulesProjects\\GameDesignGameModuleRules\\GameDesignGameModuleRules.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KingS\\.nuget\\packages\\blake3\\0.5.1\\blake3.0.5.1.nupkg.sha512",
     "C:\\Users\\KingS\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
