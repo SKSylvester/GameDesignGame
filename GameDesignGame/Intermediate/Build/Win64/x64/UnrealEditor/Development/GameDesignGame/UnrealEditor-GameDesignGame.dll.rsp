@@ -73,6 +73,6 @@
 "dwmapi.lib"
 "imm32.lib"
 /OUT:"C:\Users\KingS\Documents\Github\GameDesignGame\GameDesignGame\Binaries\Win64\UnrealEditor-GameDesignGame.dll"
-/IMPLIB:"C:\Users\KingS\Documents\Github\GameDesignGame\GameDesignGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameDesignGame\UnrealEditor-GameDesignGame.sup.lib"
-/PDB:"C:\Users\KingS\Documents\Github\GameDesignGame\GameDesignGame\Binaries\Win64\UnrealEditor-GameDesignGame.pdb"
+/IMPLIB:"C:\Users\KingS\Documents\GitHub\GameDesignGame\GameDesignGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameDesignGame\UnrealEditor-GameDesignGame.sup.lib"
+/PDB:"C:\Users\KingS\Documents\GitHub\GameDesignGame\GameDesignGame\Binaries\Win64\UnrealEditor-GameDesignGame.pdb"
 /ignore:4078

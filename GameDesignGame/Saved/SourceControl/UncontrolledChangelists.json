@@ -5,7 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/KingS/Documents/Github/GameDesignGame/GameDesignGame/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+				"C:/Users/KingS/Documents/Github/GameDesignGame/GameDesignGame/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/KingS/Documents/GitHub/GameDesignGame/GameDesignGame/Content/ThirdPerson/Idle_Rifle_Hip.uasset",
+				"C:/Users/KingS/Documents/GitHub/GameDesignGame/GameDesignGame/Content/ThirdPerson/Fire_Rifle_Hip.uasset",
+				"C:/Users/KingS/Documents/GitHub/GameDesignGame/GameDesignGame/Content/ThirdPerson/Fire_Rifle_Ironsights.uasset",
+				"C:/Users/KingS/Documents/GitHub/GameDesignGame/GameDesignGame/Content/ThirdPerson/Idle_Rifle_Ironsights.uasset",
+				"C:/Users/KingS/Documents/GitHub/GameDesignGame/GameDesignGame/Content/ThirdPerson/Animations/Jog_Fwd_Rifle.uasset",
+				"C:/Users/KingS/Documents/GitHub/GameDesignGame/GameDesignGame/Content/ThirdPerson/Animations/Fire_Rifle_Hip.uasset",
+				"C:/Users/KingS/Documents/GitHub/GameDesignGame/GameDesignGame/Content/ThirdPerson/Animations/Fire_Rifle_Ironsights.uasset",
+				"C:/Users/KingS/Documents/GitHub/GameDesignGame/GameDesignGame/Content/ThirdPerson/Animations/Idle_Rifle_Hip.uasset",
+				"C:/Users/KingS/Documents/GitHub/GameDesignGame/GameDesignGame/Content/ThirdPerson/Animations/Idle_Rifle_Ironsights.uasset",
+				"C:/Users/KingS/Documents/GitHub/GameDesignGame/GameDesignGame/Content/ThirdPerson/Animations/ThirdPersonShooter.uasset",
+				"C:/Users/KingS/Documents/GitHub/GameDesignGame/GameDesignGame/Content/ThirdPerson/Animations/NewBlendSpaceTPS.uasset",
+				"C:/Users/KingS/Documents/GitHub/GameDesignGame/GameDesignGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]
