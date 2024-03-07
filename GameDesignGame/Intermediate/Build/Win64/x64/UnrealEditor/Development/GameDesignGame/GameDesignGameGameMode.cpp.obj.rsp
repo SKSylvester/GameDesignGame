@@ -1,11 +1,11 @@
-"C:\Users\KingS\Documents\GitHub\GameDesignGame\GameDesignGame\Source\GameDesignGame\GameDesignGameGameMode.cpp"
-/FI"C:\Users\KingS\Documents\GitHub\GameDesignGame\GameDesignGame\Intermediate\Build\Win64\x64\GameDesignGameEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
-/FI"C:\Users\KingS\Documents\GitHub\GameDesignGame\GameDesignGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameDesignGame\Definitions.GameDesignGame.h"
-/Yu"C:\Users\KingS\Documents\GitHub\GameDesignGame\GameDesignGame\Intermediate\Build\Win64\x64\GameDesignGameEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
-/Fp"C:\Users\KingS\Documents\GitHub\GameDesignGame\GameDesignGame\Intermediate\Build\Win64\x64\GameDesignGameEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.pch"
-/Fo"C:\Users\KingS\Documents\GitHub\GameDesignGame\GameDesignGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameDesignGame\GameDesignGameGameMode.cpp.obj"
-/sourceDependencies "C:\Users\KingS\Documents\GitHub\GameDesignGame\GameDesignGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameDesignGame\GameDesignGameGameMode.cpp.dep.json"
-@"C:\Users\KingS\Documents\GitHub\GameDesignGame\GameDesignGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameDesignGame\GameDesignGame.Shared.rsp"
+"E:\GIthub\GameDesignGame\GameDesignGame\Source\GameDesignGame\GameDesignGameGameMode.cpp"
+/FI"E:\GIthub\GameDesignGame\GameDesignGame\Intermediate\Build\Win64\x64\GameDesignGameEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
+/FI"E:\GIthub\GameDesignGame\GameDesignGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameDesignGame\Definitions.GameDesignGame.h"
+/Yu"E:\GIthub\GameDesignGame\GameDesignGame\Intermediate\Build\Win64\x64\GameDesignGameEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
+/Fp"E:\GIthub\GameDesignGame\GameDesignGame\Intermediate\Build\Win64\x64\GameDesignGameEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.pch"
+/Fo"E:\GIthub\GameDesignGame\GameDesignGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameDesignGame\GameDesignGameGameMode.cpp.obj"
+/sourceDependencies "E:\GIthub\GameDesignGame\GameDesignGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameDesignGame\GameDesignGameGameMode.cpp.dep.json"
+@"E:\GIthub\GameDesignGame\GameDesignGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameDesignGame\GameDesignGame.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

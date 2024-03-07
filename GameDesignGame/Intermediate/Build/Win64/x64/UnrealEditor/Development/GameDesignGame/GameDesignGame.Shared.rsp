@@ -256,8 +256,8 @@
 /I "Developer\PhysicsUtilities\Public"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\WidgetRegistration\UHT"
 /I "Developer\WidgetRegistration\Public"
-/I "C:\Users\KingS\Documents\GitHub\GameDesignGame\GameDesignGame\Intermediate\Build\Win64\UnrealEditor\Inc\GameDesignGame\UHT"
-/I "C:\Users\KingS\Documents\GitHub\GameDesignGame\GameDesignGame\Source"
+/I "E:\GIthub\GameDesignGame\GameDesignGame\Intermediate\Build\Win64\UnrealEditor\Inc\GameDesignGame\UHT"
+/I "E:\GIthub\GameDesignGame\GameDesignGame\Source"
 /I "..\Plugins\EnhancedInput\Intermediate\Build\Win64\UnrealEditor\Inc\EnhancedInput\UHT"
 /I "..\Plugins\EnhancedInput\Source\EnhancedInput\Public"
 /external:W0
