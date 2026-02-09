@@ -1552,3 +1552,26 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2026.02.09-12.15.24:532][247]LogWindows: Warning: URL: C:\Users\KingS\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
 [2026.02.09-12.15.24:532][247]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
 [2026.02.09-12.15.24:532][247]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2026.02.09-12.16.04:123][728]LogWindows: Warning: CreateProc failed: Access is denied. (0x00000005)
+[2026.02.09-12.16.04:123][728]LogWindows: Warning: URL: C:/Program Files/Epic Games/UE_5.3/Engine/Binaries/Win64/ version
+[2026.02.09-12.16.49:468][787]LogWindows: Warning: CreateProc failed: The process cannot access the file because it is being used by another process. (0x00000020)
+[2026.02.09-12.16.49:468][787]LogWindows: Warning: URL: C:/Users/KingS/Documents/Github/GameDesignGame/GameDesignGame/Saved/Logs/GameDesignGame.log version
+[2026.02.09-12.16.52:719][177]LogWindows: Warning: CreateProc failed: The process cannot access the file because it is being used by another process. (0x00000020)
+[2026.02.09-12.16.52:719][177]LogWindows: Warning: URL: C:/Users/KingS/Documents/Github/GameDesignGame/GameDesignGame/Saved/Logs/GameDesignGame.log version
+[2026.02.09-12.16.52:727][178]SourceControl: Error: Connection Error: Failed to enable Git revision control. You need to install Git and specify a valid path to git executable.
+[2026.02.09-12.17.03:162][350]LogWindows: Warning: CreateProc failed: The process cannot access the file because it is being used by another process. (0x00000020)
+[2026.02.09-12.17.03:163][350]LogWindows: Warning: URL: C:/Users/KingS/Documents/Github/GameDesignGame/GameDesignGame/Saved/Logs/GameDesignGame.log version
+[2026.02.09-12.17.03:171][351]SourceControl: Error: Connection Error: Failed to enable Git revision control. You need to install Git and specify a valid path to git executable.
+[2026.02.09-12.18.25:002][213]LogWindows: Warning: CreateProc failed: Access is denied. (0x00000005)
+[2026.02.09-12.18.25:002][213]LogWindows: Warning: URL: C:/Users/KingS/Documents/Github/GameDesignGame version
+[2026.02.09-12.18.25:159][232]LogWindows: Warning: CreateProc failed: Access is denied. (0x00000005)
+[2026.02.09-12.18.25:159][232]LogWindows: Warning: URL: C:/Users/KingS/Documents/Github/GameDesignGame version
+[2026.02.09-12.18.25:160][232]SourceControl: Error: Connection Error: Failed to enable Git revision control. You need to install Git and specify a valid path to git executable.
+[2026.02.09-12.20.12:488][675]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2026.02.09-12.20.12:488][675]LogWindows: Warning: URL: C:/Users/KingS/ocuments/Github/GameDesignGame version
+[2026.02.09-12.20.19:322][488]LogWindows: Warning: CreateProc failed: Access is denied. (0x00000005)
+[2026.02.09-12.20.19:322][488]LogWindows: Warning: URL: C:/Users/KingS/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/GitHub, Inc version
+[2026.02.09-12.20.19:454][504]LogWindows: Warning: CreateProc failed: Access is denied. (0x00000005)
+[2026.02.09-12.20.19:454][504]LogWindows: Warning: URL: C:/Users/KingS/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/GitHub, Inc version
+[2026.02.09-12.20.19:455][504]SourceControl: Error: Connection Error: Failed to enable Git revision control. You need to install Git and specify a valid path to git executable.
+[2026.02.09-12.20.22:347][798]LogSlate: Window 'Revision Control Login' being destroyed
